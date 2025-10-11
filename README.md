@@ -38,20 +38,20 @@ AFI_Project1/
 
 ## 🧾 Deskripsi Dataset
 
-### 📊 Analisis Singkat Dataset
+### Analisis Singkat Dataset
 
 - Jumlah data: **1,815** baris  
 - Jumlah kolom: **3**
 - Kolom utama: `Unnamed: 0`, `sentimen`, `tweet`
 
-#### ⚖️ Distribusi Sentimen
+#### Distribusi Sentimen
 | Sentimen | Jumlah | Persentase |
 |-----------|---------|------------|
 | Positif | 612 | 33.72% |
 | Netral | 607 | 33.44% |
 | Negatif | 596 | 32.84% |
 
-#### 📏 Panjang Tweet
+#### Panjang Tweet
 - Rata-rata panjang tweet: **194.7 karakter**
 - Minimum: **27**
 - Maksimum: **668**
