@@ -1,0 +1,13 @@
+# Abaikan file sementara & cache
+*.zip
+*.tmp
+*.log
+__pycache__/
+.ipynb_checkpoints/
+
+# Pastikan folder utama tetap diikutkan
+!data/
+!notebooks/
+!results/
+!utils/
+!README.md
