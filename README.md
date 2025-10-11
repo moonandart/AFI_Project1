@@ -29,9 +29,9 @@ AFI_Project1/
 ├── utils/
 │   └── inference_emoji.py        # Script inferensi mandiri
 │
-└── README.md
+└── Analisis-Sentimen-Tweet-Bahasa-Indonesia-Emoji-Aware.pdf # Slide Presentasi
 │
-└── Analisis-Sentimen-Tweet-Bahasa-Indonesia-Emoji-Aware.pdf
+└── README.md
 ```
 
 ---
