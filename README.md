@@ -44,14 +44,14 @@ AFI_Project1/
 - Jumlah kolom: **3**
 - Kolom utama: `Unnamed: 0`, `sentimen`, `tweet`
 
-#### Distribusi Sentimen
+### Distribusi Sentimen
 | Sentimen | Jumlah | Persentase |
 |-----------|---------|------------|
 | Positif | 612 | 33.72% |
 | Netral | 607 | 33.44% |
 | Negatif | 596 | 32.84% |
 
-#### Panjang Tweet
+### Panjang Tweet
 - Rata-rata panjang tweet: **194.7 karakter**
 - Minimum: **27**
 - Maksimum: **668**
@@ -124,7 +124,7 @@ Data dibagi 80% train dan 20% test menggunakan `train_test_split(stratify=y)`.
 
 ## 📊 Evaluasi Model
 
-### 🔹 Hasil Evaluasi Kuantitatif
+### Hasil Evaluasi Kuantitatif
 
 | Model | Macro F1 (Train) | Macro F1 (Test) | Akurasi | Catatan |
 |--------|------------------|------------------|----------|----------|
@@ -134,15 +134,15 @@ Data dibagi 80% train dan 20% test menggunakan `train_test_split(stratify=y)`.
 > Logistic Regression menunjukkan peningkatan F1-test dibandingkan Naive Bayes,  
 > terutama pada label *negatif* dan *netral*.
 
-### 🔹 Visualisasi Performa
+### Visualisasi Performa
 
-#### 🧩 Confusion Matrix (Logistic Regression Emoji-Aware)
+#### Confusion Matrix (Logistic Regression Emoji-Aware)
 ![Confusion Matrix](results/CF_LogReg.png)
 
-#### 📈 F1-Score Logistic Regression
+#### F1-Score Logistic Regression
 ![F1 Logistic Regression](results/F1Score_LogReg.png)
 
-#### 📈 F1-Score Multinomial Naive Bayes
+#### F1-Score Multinomial Naive Bayes
 ![F1 Naive Bayes](results/F1Score_NB.png)
 
 ---
