@@ -30,6 +30,8 @@ AFI_Project1/
 │   └── inference_emoji.py        # Script inferensi mandiri
 │
 └── README.md
+│
+└── Analisis-Sentimen-Tweet-Bahasa-Indonesia-Emoji-Aware.pdf
 ```
 
 ---
