@@ -1,4 +1,4 @@
-# 🇮🇩 Analisis Sentimen Tweet Bahasa Indonesia (Emoji-Aware)
+# Analisis Sentimen Tweet Bahasa Indonesia (Emoji-Aware)
 
 Proyek ini membangun pipeline lengkap untuk **analisis sentimen tweet Bahasa Indonesia**  
 menggunakan **machine learning klasik (TF-IDF + Logistic Regression / Naive Bayes)**  
