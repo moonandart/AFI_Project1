@@ -228,7 +228,6 @@ predict_sentiment("Aduh kecewa banget 😭")
 
 - 🔹 Tambah model berbasis *transformer* (IndoBERT)
 - 🔹 Visualisasi frekuensi emoji per sentimen
-- 🔹 Dashboard analisis real-time (Streamlit / FastAPI)
 - 🔹 Optimasi TF-IDF (grid search, n-gram lebih lebar)
 
 ---
