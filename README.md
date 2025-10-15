@@ -167,13 +167,13 @@ Semua hasil otomatis disimpan ke:
 
 ## 💬 Inferensi (Prediksi Teks Baru)
 
-Gunakan `utils/inference_emoji.py` untuk menjalankan prediksi:
+### Gunakan `utils/inference_emoji.py` untuk menjalankan prediksi:
 
 ```bash
 python utils/inference_emoji.py
 ```
 
-### Contoh Output:
+Contoh Output:
 ```
 Text  : Mantap banget acaranya! 😂🔥 #keren
 Clean : mantap banget acaranya emoji_positive keren
@@ -181,12 +181,17 @@ Pred  : positif
 Top   : positif | prob: 0.91
 ```
 
-Atau langsung gunakan fungsi di Python:
+### Atau langsung gunakan fungsi di Python:
 ```python
 from utils.inference_emoji import predict_sentiment
 predict_sentiment("Aduh kecewa banget 😭")
+```
 
-Atau menggunakan URL : https://sentimentapi-production-bb07.up.railway.app/docs
+### Atau menggunakan URL :
+```url
+https://sentimentapi-production-bb07.up.railway.app/docs
+```
+
 ---
 
 ## ☁️ Menjalankan di Google Colab
