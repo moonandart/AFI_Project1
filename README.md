@@ -185,7 +185,7 @@ Atau langsung gunakan fungsi di Python:
 ```python
 from utils.inference_emoji import predict_sentiment
 predict_sentiment("Aduh kecewa banget 😭")
-```
+
 Atau menggunakan URL : https://sentimentapi-production-bb07.up.railway.app/docs
 ---
 
