@@ -186,7 +186,7 @@ Atau langsung gunakan fungsi di Python:
 from utils.inference_emoji import predict_sentiment
 predict_sentiment("Aduh kecewa banget 😭")
 ```
-
+Atau menggunakan URL : https://sentimentapi-production-bb07.up.railway.app/docs
 ---
 
 ## ☁️ Menjalankan di Google Colab
@@ -237,6 +237,6 @@ predict_sentiment("Aduh kecewa banget 😭")
 **Dikembangkan oleh:** [moonandart](https://github.com/moonandart)  
 **Proyek:** [AFI_Project1](https://github.com/moonandart/AFI_Project1)  
 **Fokus:** NLP — Analisis Sentimen Tweet Bahasa Indonesia 🇮🇩  
-**Kolaborator:** GPT-5 (AI Project Assistant)
+**Kolaborator:** NLP Group B(AlphaGPT) & GPT-5 (AI Project Assistant)
 
 ---
