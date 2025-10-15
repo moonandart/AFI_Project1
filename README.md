@@ -232,17 +232,16 @@ predict_sentiment("Aduh kecewa banget 😭")
 
 ## 🚀 Rencana Pengembangan
 
-- 🔹 Tambah model berbasis *transformer* (IndoBERT)
-- 🔹 Visualisasi frekuensi emoji per sentimen
-- 🔹 Optimasi TF-IDF (grid search, n-gram lebih lebar)
+🔹 Tambah model berbasis *transformer* (IndoBERT)
+🔹 Optimasi TF-IDF (grid search, n-gram lebih lebar)
 
 ---
 
 ## 👤 Pengembang
 
-**Dikembangkan oleh:** [moonandart](https://github.com/moonandart)  
+**Dikembangkan oleh:** [Arismunandar](https://github.com/moonandart)  
 **Proyek:** [AFI_Project1](https://github.com/moonandart/AFI_Project1)  
-**Fokus:** NLP — Analisis Sentimen Tweet Bahasa Indonesia 🇮🇩  
-**Kolaborator:** NLP Group B(AlphaGPT) & GPT-5 (AI Project Assistant)
+**Fokus:** NLP - Analisis Sentimen Tweet Bahasa Indonesia  
+**Kolaborator:** NLP Group B (AlphaGPT) & GPT-5 (AI Project Assistant)
 
 ---
