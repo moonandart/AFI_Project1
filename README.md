@@ -4,6 +4,12 @@ Proyek ini membangun pipeline lengkap untuk **analisis sentimen tweet Bahasa Ind
 menggunakan **machine learning klasik (TF-IDF + Logistic Regression / Naive Bayes)**  
 dengan **preprocessing berbasis Sastrawi** serta **penggunaan emoji sebagai sinyal emosi**.
 
+### Presentasi: 
+
+```url
+https://drive.google.com/drive/folders/1IGMGmBF_604yLnKt7-xFm7dbf9YIRkya?usp=sharing
+```
+
 ---
 
 ## 📁 Struktur Proyek
