@@ -187,11 +187,6 @@ from utils.inference_emoji import predict_sentiment
 predict_sentiment("Aduh kecewa banget 😭")
 ```
 
-### Atau menggunakan URL :
-```url
-https://sentimentapi-production-bb07.up.railway.app/docs
-```
-
 ---
 
 ## ☁️ Menjalankan di Google Colab
